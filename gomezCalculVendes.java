@@ -1,3 +1,5 @@
+//Aquest programa el que fa es comparar les sucursals i les vendes 
+
 import java.util.Scanner;
 
 public class gomezCalculVendes {
