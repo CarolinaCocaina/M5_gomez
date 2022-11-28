@@ -21,6 +21,8 @@ public class gomezCalculVendes {
         // Mentre hi hagui una sucursal
         while (sucursals > 0) {
 
+            // Comentari de prova
+
             // Demanarà el nom de la sucursal i la guardarà a nomS
             System.out.println("Nom sucursal? ");
             String nomS = scSucursals.nextLine();
