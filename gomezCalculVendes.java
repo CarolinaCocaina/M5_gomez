@@ -1,4 +1,4 @@
-//Aquest programa el que fa es comparar les sucursals i les vendes 
+//Aquest programa el que fa es comparar les sucursals i les vendes d'aquestes
 
 import java.util.Scanner;
 
